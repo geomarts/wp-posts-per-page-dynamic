@@ -1,0 +1,14 @@
+/*
+Theme Name: Twenty Twenty-One Child
+Description: Twenty Twenty-One Child Theme
+Author: George Martsoukos
+Author URI: https://georgemartsoukos.com
+Template: twentytwentyone
+Version: 1.0.0
+*/
+
+.posts-per-page {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
